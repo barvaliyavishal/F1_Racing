@@ -9,7 +9,7 @@
 
 spark.conf.set(
     "fs.azure.account.key.vishalformula1dl.dfs.core.windows.net",
-    "ck1FWENS3epHiHtZ1gnAyW09hgADYZZ7PNX9UMoM3OvvYXLF7DR7wsoeRomrqbTqdogI88dRvUiA+AStVbQ+tw==")
+    "ck1FWENS3epHiHtZ1gnAyW09hgADYZZ7PNX9UMoM3OvvYXLF7DR7wsoeRomrqbTqdogI88dRv==")
 
 # COMMAND ----------
 
